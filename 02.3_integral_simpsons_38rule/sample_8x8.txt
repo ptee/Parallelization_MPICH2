@@ -1,0 +1,27 @@
+A sample input file for the matrix (8 x 8) is given below  
+8    8  
+61.0     2.0    3.0    4.0    6.0     8.0    9.0    2.0  
+  2.0   84.0    6.0    4.0    3.0     2.0    8.0    7.0  
+  3.0     6.0  68.0    2.0    4.0     3.0    9.0    1.0  
+  4.0     4.0    2.0  59.0    6.0     4.0    3.0    8.0  
+  6.0     3.0    4.0    6.0  93.0     8.0    3.0    1.0  
+  8.0     2.0    3.0    4.0    8.0   98.0    3.0    1.0  
+  9.0     8.0    9.0    3.0    3.0     3.0  85.0    7.0  
+  2.0     7.0    1.0    8.0    1.0     1.0    7.0  98.0 
+
+Input file 2 
+
+The input file for the vector should strictly adhere to the following format. 
+
+#Line 1 : Size of the vector (n)  
+#Line 2 : (data)  
+
+A sample input file for the vector (8 x 1) is given below  
+8  
+95.0  116.0  96.0  90.0  124.0  127.0  127.0  125.0 
+
+Output  
+Process 0 will print the results of the solution x of matrix/system Ax = b. 
+
+1.0  1.0  1.0  1.0  1.0  1.0  1.0  1.0
+
