@@ -11,4 +11,5 @@ Resources for MPI and GPUs can be found at:
 
 * NVIDIA MPI Solution for GPUs: https://developer.nvidia.com/mpi-solutions-gpus
 
-* Multi-GPU Programming with MPI (Slides): http://on-demand.gputechconf.com/gtc/2015/presentation/S5117-Jiri-Kraus.pdf
+* Multi-GPU Programming with MPI (Slides) from J. Kraus (Nvidia): http://on-demand.gputechconf.com/gtc/2015/presentation/S5117-Jiri-Kraus.pdf
+* Multi-GPU Programming with MPI (Slides) J.Kraus & P. Messmer (Nvidia) http://on-demand.gputechconf.com/gtc/2014/presentations/S4236-multi-gpu-programming-mpi.pdf
